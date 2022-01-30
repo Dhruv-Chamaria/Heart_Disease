@@ -1,0 +1,2 @@
+# Heart_Disease
+The most important part of human body is the heart which pumps blood to every other part. In the event that the heart doesn't work appropriately, at that point the mind and different organs will quit working which prompts the demise of the individual inside couple of moments. So proper functioning of the heart is of vital importance. To improve overall health of humans and for long-life I have created a machine learning model that predicts weather a person has a potential threat of a heart disease
